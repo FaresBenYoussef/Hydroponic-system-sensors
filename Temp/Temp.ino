@@ -7,7 +7,7 @@
 #include <dht.h>
 dht DHT;
 //Constants
-#define DHT21_PIN 8     // DHT 22  (AM2302) - what pin we're connected to
+#define DHT21_PIN 8     
 
 //Variables
 float hum;  //Stores humidity value
